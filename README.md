@@ -16,5 +16,5 @@ Para contribuir com o repositorio basta fazer um pull request e no pull request 
 <h4>Tabela de conteúdos:</h4>
 1- <a href="https://github.com/BrunoCiccarino/python4noobs/blob/main/instala%C3%A7%C3%A3o%2FREADME.md">Instalação</a><br>
 2- <a href="https://github.com/BrunoCiccarino/python4noobs/blob/main/HelloWorld/README.md">Hello World</a><br>
-3- <a href="https://github.com/BrunoCiccarino/python4noobs/tree/main/TiposPrimitivos">Tipos Primitivos</a>
+3- <a href="https://github.com/BrunoCiccarino/python4noobs/tree/main/TiposPrimitivos">Tipos Primitivos</a><br>
 4- Type casting (Em Breve)
