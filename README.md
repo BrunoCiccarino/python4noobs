@@ -7,4 +7,4 @@ Python é uma linguagem orientada a objetos dinamicamente e fortemente tipada, c
 Para contribuir com o repositorio basta fazer um pull request e no pull request fazer um breve resumo de suas alterações, para que eu revise e aceite.
 
 <h4>Tabela de conteúdo:</h4>
-1- <a href="https://github.com/BrunoCiccarino/python4noobs/edit/main/instala%C3%A7%C3%A3o/README.md">Instalação</a>
+1- <a href="https://github.com/BrunoCiccarino/python4noobs/main/instala%C3%A7%C3%A3o/README.md">Instalação</a>
