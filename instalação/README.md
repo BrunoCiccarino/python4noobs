@@ -49,7 +49,7 @@ Agora para configurar o ambiente de desenvolvimento aqui vamos utilizar o visual
 
 A extensão que eu uso no meu vscode para programar em python é essa: 
 
-<img src="https://github.com/BrunoCiccarino/python4noobs/blob/main/instala%C3%A7%C3%A3o/img/extens%C3%A3opy.jpg" style="height: 30px">
+<img src="https://github.com/BrunoCiccarino/python4noobs/blob/main/instala%C3%A7%C3%A3o/img/extens%C3%A3opy.jpg" style="height: 100px">
 
 Ela é uma extensão que a propria microsoft mantem atualizada, e para quem esta se perguntando que tema que eu uso, eu uso o shades of purple, para instalar e usar ele é muito simples também, é só ir em extensões e procurar por shades of purple:
 
