@@ -1,6 +1,6 @@
 <h4>Tipos primitivos</h4>
 
-No python, diferente de muitas linguagens, não precisamos declarar os tipos primitivos nas variaveis, o proprio python detecta isso, como por exemplo:
+No python, diferente de muitas linguagens, não precisamos declarar os tipos primitivos nas variaveis, o proprio python detecta automaticamente isso, como por exemplo:
 
 Em python
 
