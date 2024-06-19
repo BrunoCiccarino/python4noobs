@@ -102,3 +102,26 @@ PyInit_builtins(void) {
 ```
 
 Como eu disse você não vai precisar saber de tudo isso agora mas acho legal mostrar isso para vocês terem uma dimensão do quão grande é a linguagem python!
+
+<h4>Comentários em python</h4>
+
+Em todas as linguagens, existem uma importantissima função que é chamada de comentário, ela fala pro interpretador ou pro compilador dependendo da linguagem que você vai comentar, para ignorar o que esta escrito após essa função, no python existe dois tipos de comentários, os comentários normais e as docStrings, o comentário normal é usado para explicar o que certo trecho de código faz, como no exemplo a baixo: 
+
+```
+# Imprime na tela Hello World
+print("Hello, World")
+```
+
+Ja o docString, é utilizado para fazer documentações em certos tipos de código, como nesse exemplo:
+
+```
+def soma(a, b):
+    """
+    Retorna a soma de a e b.
+    """
+    return a + b
+
+resultado = soma(2, 3)
+print(resultado)  # Saída: 5
+
+```
