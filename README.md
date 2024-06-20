@@ -5,7 +5,8 @@
 
 Python é uma linguagem orientada a objetos dinamicamente e fortemente tipada, criada por Guido van Rossum e desenvolvida para ser uma linguagem de script que pudesse substituir perl no inicio da decada de 90, onde o uso de expressões regulares vulgo(regex), estava cada vez mais se popularizando. Python é usado e conhecido até hoje por conta de sua sintaxe simples de facil entendimento. 
 
-<h4>Como funciona esse repositorio</h4> <br>
+<h4>Como funciona esse repositorio</h4>
+
 Aqui será um tutorial geral de python, com uma pequena introdução ao machine learning e data science utilizando algumas frame works, como sklearn, pandas e tensor flow. Sempre parto do principio que ensinar é a melhor forma de aprender, então enquanto estou escrevendo esse tutorial eu estou fixando ainda mais o que ja estudei!
 
 <h4>Como posso contribuir com o repositório?</h4>
