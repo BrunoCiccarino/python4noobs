@@ -20,7 +20,25 @@ Caso contrário imprimirá "senha incorreta!"
 
 <img src="https://github.com/BrunoCiccarino/python4noobs/blob/main/EstruturasCondicionais/img/estruturasCondicionaisElse.jpg" alt="Estrutura condicional" width="200px" height="200px">
 
-O elif, mais conhecido como else if, também verifica se a condição é verdadeira, para não termos que adicionar um monte de if's o que deixaria o código mais sujo! Usando o elif podemos verificar se mais condições são verdadeiras.
+O elif, mais conhecido como else if, também verifica se a condição é verdadeira, para não termos que adicionar um monte de if's o que deixaria o código mais sujo! Usando o elif podemos verificar se mais condições são verdadeiras. Agora segue um exemplo de código usando o elif:
+
+```
+# -*- coding: UTF-8 -*-
+
+i = 47
+
+if i == 2:
+    print("i é igual a dois")
+
+elif i == 43:
+    print("i é igual a 43")
+
+elif i == 47:
+    print("i é igual a 47")
+
+else:
+    print("A variavel i não é igual a nenhuma das opções anteriores!")
+```
 
 <img src="https://github.com/BrunoCiccarino/python4noobs/blob/main/EstruturasCondicionais/img/estruturasCondicionaisElif.jpg" alt="Estrutura condicional" width="200px" height="200px">
 
