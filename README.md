@@ -9,7 +9,7 @@ Python é uma linguagem orientada a objetos dinamicamente e fortemente tipada, c
 
 <h4>Como funciona esse repositorio</h4>
 
-Aqui será um tutorial geral de python, com uma pequena introdução ao machine learning e data science utilizando algumas frame works, como sklearn, pandas e tensor flow. Sempre parto do principio que ensinar é a melhor forma de aprender, então enquanto estou escrevendo esse tutorial eu estou fixando ainda mais o que ja estudei!
+Aqui será um tutorial geral de python, com uma pequena introdução ao machine learning e data science utilizando algumas frame works, como sklearn, pandas e tensor flow. Sempre parto do principio que ensinar é a melhor forma de aprender, então enquanto estou escrevendo esse tutorial eu estou fixando ainda mais o que ja estudei! Se estiverem começando, copiem todos os códigos desse repositório (se conseguirem, menos os exercicios) a mão para treinarem a memória muscular de vocês e também para fixar como um código deve funcionar e ser estruturado.
 
 <h4>Como posso contribuir com o repositório?</h4>
 
