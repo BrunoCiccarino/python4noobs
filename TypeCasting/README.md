@@ -17,7 +17,6 @@ Agora vamos para os exemplos de casting's:
 De float para inteiro (Integer)
 
 ```
-# Exemplo de casting para inteiro
 valor_float = 3.5
 valor_inteiro = int(valor_float)
 print(valor_inteiro)  # Saída: 3
@@ -27,7 +26,6 @@ print(valor_inteiro)  # Saída: 3
 De inteiro para float
 
 ```
-# Exemplo de casting para ponto flutuante
 valor_inteiro = 3
 valor_float = float(valor_inteiro)
 print(valor_float)  # Saída: 3.0
@@ -36,7 +34,6 @@ print(valor_float)  # Saída: 3.0
 De inteiro para string(int -> str)
 
 ```
-# Exemplo de casting para string
 valor_inteiro = 42
 valor_string = str(valor_inteiro)
 print(valor_string)  # Saída: '42'
@@ -45,7 +42,6 @@ print(valor_string)  # Saída: '42'
 De inteiro para boolean
 
 ```
-# Exemplo de casting para booleano
 valor_inteiro = 0
 valor_booleano = bool(valor_inteiro)
 print(valor_booleano)  # Saída: False
