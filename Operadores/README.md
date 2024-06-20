@@ -238,4 +238,4 @@ print('desktop development' in l_stacks)
 print('Front End'not in l_stacks)
 ```
 
-Esse foi um resumo sobre os operadores, peço que se tiverem algo para contribuir, faça uma fork e depois um pull request, para contribuir com o projeto. 
+Exercicio 2: A fórmula para calcular a área de uma circunferência é: area = π . raio2. Considerando para este problema que π = 3.14159: - Efetue o cálculo da área, elevando o valor de raio ao quadrado e multiplicando por π. A entrada contém um valor de ponto flutuante (dupla precisão), no caso, a variável raio. A saída deve apresentar a mensagem "A=" seguido pelo valor da variável area, conforme exemplo abaixo, com 4 casas após o ponto decimal. Caso queira comparar os códigos a resolução desse exercicio estará na pasta Exercicios no diretório principal.
