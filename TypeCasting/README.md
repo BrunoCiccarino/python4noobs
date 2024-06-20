@@ -46,3 +46,5 @@ valor_inteiro = 0
 valor_booleano = bool(valor_inteiro)
 print(valor_booleano)  # Saída: False
 ```
+
+Exercicio 1 faça um código que tenha 3 variaveis, uma com seu nome, outra com seu sobrenome, outra com sua idade e que imprima todos os valores das variaveis.
