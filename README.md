@@ -24,4 +24,4 @@ Para contribuir com o repositorio basta fazer um pull request e no pull request 
 
 ## Contribuidores
 
-<a href="https://github.com/BrunoCiccarino"><img src="https://avatars3.githubusercontent.com/u/10088900" title="BrunoCiccarino" width="72" height="72"></a>
+<a href="https://github.com/BrunoCiccarino"><img src="" title="BrunoCiccarino" width="72" height="72"></a>
