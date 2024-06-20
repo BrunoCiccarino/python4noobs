@@ -3,7 +3,10 @@
 
 <h4>Uma breve história do python</h4>
 
-Python é uma linguagem orientada a objetos dinamicamente e fortemente tipada, criada por Guido van Rossum e desenvolvida para ser uma linguagem de script que pudesse substituir perl no inicio da decada de 90, onde o uso de expressões regulares vulgo(regex), estava cada vez mais se popularizando. Python é usado e conhecido até hoje por conta de sua sintaxe simples de facil entendimento. Aqui será um tutorial geral de python, com uma pequena introdução ao machine learning e data science utilizando algumas frame works, como sklearn, pandas e tensor flow.
+Python é uma linguagem orientada a objetos dinamicamente e fortemente tipada, criada por Guido van Rossum e desenvolvida para ser uma linguagem de script que pudesse substituir perl no inicio da decada de 90, onde o uso de expressões regulares vulgo(regex), estava cada vez mais se popularizando. Python é usado e conhecido até hoje por conta de sua sintaxe simples de facil entendimento. 
+
+<h4>Como funciona esse repositorio</h4> <br>
+Aqui será um tutorial geral de python, com uma pequena introdução ao machine learning e data science utilizando algumas frame works, como sklearn, pandas e tensor flow. Sempre parto do principio que ensinar é a melhor forma de aprender, então enquanto estou escrevendo esse tutorial eu estou fixando ainda mais o que ja estudei!
 
 <h4>Como posso contribuir com o repositório?</h4>
 
@@ -18,3 +21,7 @@ Para contribuir com o repositorio basta fazer um pull request e no pull request 
 2- <a href="https://github.com/BrunoCiccarino/python4noobs/blob/main/HelloWorld/README.md">Hello World</a><br>
 3- <a href="https://github.com/BrunoCiccarino/python4noobs/tree/main/TiposPrimitivos">Tipos Primitivos</a><br>
 4- Type casting (Em Breve)
+
+## Contribuidores
+
+<a href="https://github.com/BrunoCiccarino"><img src="https://avatars3.githubusercontent.com/u/10088900" title="BrunoCiccarino" width="72" height="72"></a>
