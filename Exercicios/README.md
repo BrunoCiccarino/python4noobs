@@ -1,1 +1,3 @@
-Nessa pasta vou postar todas as respostas dos exercicios que vou passar, para vocês compararem meu código com o de vocês.
+<h4>Exercicios</h4>
+
+Aqui é o diretorio onde ficam todos os exercicios, eu recomendo fortemente que você tente resolver antes de ler os códigos e depois compare eles com os de vocês mas, se não conseguirem fazer, não tem problema! Olhe a resolução, baixem editem e testem, uma das melhores formas de aprender no inicio é treinando a memoria muscular, editando e testando códigos alheios, é normal quando começamos termos dificuldade em expressar o que aprendemos em código, por isso também vou deixar todos os códigos que eu fiz durante esse tutorial disponiveis aqui, nesse repositório! E se estiverem gostando desse tutorial, deixem uma estrela para me incentivar a manter esse repositório atualizado!
