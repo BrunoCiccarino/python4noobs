@@ -1,3 +1,9 @@
 <h4>Exercicios</h4>
 
 Aqui é o diretorio onde ficam todos os exercicios, eu recomendo fortemente que você tente resolver antes de ler os códigos e depois compare eles com os de vocês mas, se não conseguirem fazer, não tem problema! Olhe a resolução, baixem editem e testem, uma das melhores formas de aprender no inicio é treinando a memoria muscular, editando e testando códigos alheios, é normal quando começamos termos dificuldade em expressar o que aprendemos em código, por isso também vou deixar todos os códigos que eu fiz durante esse tutorial disponiveis aqui, nesse repositório! E se estiverem gostando desse tutorial, deixem uma estrela para me incentivar a manter esse repositório atualizado!
+
+Exercicio 1: faça um código que tenha 3 variaveis, uma com seu nome, outra com seu sobrenome, outra com sua idade e que imprima todos os valores das variaveis.
+
+Exercicio 2: A fórmula para calcular a área de uma circunferência é: area = π . raio2. Considerando para este problema que π = 3.14159: - Efetue o cálculo da área, elevando o valor de raio ao quadrado e multiplicando por π. A entrada contém um valor de ponto flutuante (dupla precisão), no caso, a variável raio. A saída deve apresentar a mensagem "A=" seguido pelo valor da variável area, conforme exemplo abaixo, com 4 casas após o ponto decimal. Caso queira comparar os códigos a resolução desse exercicio estará na pasta Exercicios no diretório principal.
+
+Exercicio 3: Usando os conhecimentos que você adiquiriu crie um programa que receba duas entradas das notas do aluno, salvando em duas variaveis, a nota1 e nota2 calcule a média aritmética de um aluno, e que caso a nota do aluno seja igual ou maior que 6 imprima na tela que o aluno esta aprovado, caso contrário, o aluno estará reprovado.
