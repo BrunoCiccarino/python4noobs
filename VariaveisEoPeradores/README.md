@@ -1,1 +1,0 @@
-<h4>Variaveis e operadores aritmeticos</h4> 
