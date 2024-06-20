@@ -58,7 +58,9 @@ exponenciacao = a ** b
 print(exponenciacao)
 ```
 
-Operadores de comparação, são usados para comparar dois valores, e esses são os operadores de comparação: ```==```	Igual a	Verifica se um valor é igual ao outro. ```!=```	Diferente de	Verifica se um valor é diferente ao outro. ```>```	Maior que	Verifica se um valor é maior que outro. ```>=```	Maior ou igual	Verifica se um valor é maior ou igual ao outro. ```<```	Menor que	Verifica se um valor é menor que outro. ```<=```	Menor ou igual	Verifica se um valor é menor ou igual ao outro.
+<h4>Operadores de comparação:</h4>
+
+são usados para comparar dois valores, e esses são os operadores de comparação: ```==```	Igual a	Verifica se um valor é igual ao outro. ```!=```	Diferente de	Verifica se um valor é diferente ao outro. ```>```	Maior que	Verifica se um valor é maior que outro. ```>=```	Maior ou igual	Verifica se um valor é maior ou igual ao outro. ```<```	Menor que	Verifica se um valor é menor que outro. ```<=```	Menor ou igual	Verifica se um valor é menor ou igual ao outro.
 
 Agora um exemplo utilizando esses operadores:
 
@@ -117,9 +119,11 @@ E se nós não inseríssimos um valor válido? Vamos executar e para ver o que a
 
 Retornaria esse value error, o value error é uma exceção comum em Python que ocorre quando uma função recebe um argumento com o tipo correto, mas com um valor inválido. ja que usamos int(input()) e passamos um argumento do tipo string quando o interpretador estava esperando um número inteiro como argumento. 
 
-Operadores de atribuição, usados para atribuições de valores à variaveis, podendo controlar como a atribuição será realizada. 
+<h4>Operadores de atribuição: </h4> 
 
-Operador                Equivalente a
+usados para atribuições de valores à variaveis, podendo controlar como a atribuição será realizada. 
+
+Operador,                        Equivalente a:
 
 ```
 =	                        x = 1
@@ -129,3 +133,109 @@ Operador                Equivalente a
 /=	                     x = x / 1
 %=	                     x = x % 1
 ```
+
+Agora vou fazer exemplos de como usar esses operadores em um código:
+
+Operador +=:
+
+```
+num = 5
+
+num += 7
+print(num)
+```
+
+Operador -=:
+
+```
+num = 8
+
+num -= 3
+print(num)  
+```
+
+Operador *=:
+
+```
+num = 3
+
+num *= 2
+print(num)
+```
+
+Operador /=:
+
+```
+num = 7
+
+num /= 4
+print(num)
+```
+
+Operador %=:
+
+```
+num = 13
+
+num %= 2
+print(num)
+```
+
+O operador % é chamado de modulo, que é o resto da divisão, no exemplo acima é 13 / 2, o resto da divisão da 1 e o quociente é 6.5.
+
+<h4>Operadores lógicos: </h4>
+
+O operador ```and``` retorna True se ambas as condições forem verdadeiras. O operador ```or``` retorna True se uma das condições for verdadeira. O operador not	retorna Falso se o resultado for verdadeiro.
+
+```
+num1 = int(input("Insira um valor:"))
+num2 = int(input("Insira outro valor:"))
+
+# Exemplo and
+if num1 > 3 and num2 < 8:
+    print("As Duas condições são verdadeiras")
+
+# Exemplo or
+elif num1 > 4 or num2 <= 8:
+    print("Uma ou duas das condições são verdadeiras")
+
+# Exemplo not
+elif not (num1 < 30 and num2 < 8):
+    print("Inverte o resultado da condição entre os parânteses")
+
+else:
+    print("Insira um valor valido")
+```
+
+<h4>Operadores de identidade:</h4> 
+
+Os operadores de identidade vocês não vão precisar saber agora, mas vale a pena eu explicar. Os operadores de identidade são muito utilizados para comparar objetos (Tudo em python são objetos, mas vamos ver isso mais para frente), verificando se os objetos testados referenciam o mesmo objeto ```(is)``` ou não ```(is not)```. 
+
+```
+l = [1, 2, 3, 4, 5, 6, 7]
+ol = [1, 2, "tres", 4]
+
+print(f"São o mesmo objeto? {l is ol}") # Retorna false
+```
+
+```
+t = (1, 2, 3)
+ot = (3, 2, 1)
+
+print(f"Os objetos são diferentes? {ot is t}")
+```
+
+Uma dica, operador == checa os valores testados e o operador is testa a referência dos valores testados!
+
+<h4>Operadores de Associação: </h4>
+
+Os operadores de associação verificam se determinados objetos pertencem uma determinada estrutura de dados.
+
+```
+l_stacks = ['web development', 'low level development', 'desktop development', 'mobile development']
+
+print('desktop development' in l_stacks)
+print('Front End'not in l_stacks)
+```
+
+Esse foi um resumo sobre os operadores, peço que se tiverem algo para contribuir, faça uma fork e depois um pull request, para contribuir com o projeto. 
