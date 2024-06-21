@@ -42,4 +42,4 @@ else:
 
 <img src="https://github.com/BrunoCiccarino/python4noobs/blob/main/EstruturasCondicionais/img/estruturasCondicionaisElif.jpg" alt="Estrutura condicional" width="200px" height="200px">
 
-Exercicio 3: Usando os conhecimentos que você adiquiriu crie um programa que receba duas entradas das notas do aluno, salvando em duas variaveis, a nota1 e nota2 calcule a média aritmética de um aluno, e que caso a nota do aluno seja igual ou maior que 6 imprima na tela que o aluno esta aprovado, caso contrário, o aluno estará reprovado.
+Exercicio 3: Usando os conhecimentos que você adiquiriu crie um programa que receba duas entradas das notas do aluno, salvando em duas variaveis, a nota1 e nota2 calcule a média ponderada de um aluno, e que caso a nota do aluno seja igual ou maior que 6 imprima na tela que o aluno esta aprovado, caso contrário, o aluno estará reprovado. Obs: a saída do programa deve ser formatada, limite para no máximo 5 casas decimais depois do ponto.
