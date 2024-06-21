@@ -24,7 +24,8 @@ Para contribuir com o repositorio basta fazer um pull request e no pull request 
 2- <a href="https://github.com/BrunoCiccarino/python4noobs/blob/main/HelloWorld/README.md">Hello World</a><br>
 3- <a href="https://github.com/BrunoCiccarino/python4noobs/tree/main/TiposPrimitivos/README.md">Tipos Primitivos</a><br>
 4- <a href="https://github.com/BrunoCiccarino/python4noobs/blob/main/TypeCasting%2FREADME.md">Type Casting</a><br>
-5- <a href="https://github.com/BrunoCiccarino/python4noobs/blob/main/Operadores%2FREADME.md">Operadores e uma introdução a estruturas condicionais</a>
+5- <a href="https://github.com/BrunoCiccarino/python4noobs/blob/main/Operadores%2FREADME.md">Operadores e uma introdução a estruturas condicionais</a><br>
+<a href="https://github.com/BrunoCiccarino/python4noobs/blob/main/EstruturasCondicionais%2FREADME.md">Aprofundando em estruturas condicionais</a>
 
 ## Contribuidores
 
