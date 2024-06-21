@@ -1,10 +1,11 @@
-nota1 = int(input("Digite a primeira nota do aluno: "))
-nota2 = int(input("Digite a segunda nota do aluno: "))
+nota1 = float(input("Digite a nota 1 do aluno: "))
+nota2 = float(input("Digite a nota 2 do aluno: "))
 
-media = (nota1 + nota2) / 2
 
-if media > 6:
-    print("Aluno aprovado")
+MEDIA = ((nota1 * 3.5) + (nota2 * 7.5)) / 11
+
+if MEDIA >= 6:
+    print(f"Aluno aprovado MEDIA = {MEDIA:.5f}".format(MEDIA))
 
 else:
-    print("Aluno reprovado")
+    print("Aluno reprovado!")
