@@ -238,4 +238,20 @@ print('desktop development' in l_stacks)
 print('Front End'not in l_stacks)
 ```
 
+<h4>Tem como formatar o output de algum programa?</h4>
+
+A resposta é sim, no python, temos um recurso que podemos formatar de uma maneira muito simples, chama-se format ela permite a inserção de variáveis e a formatação de valores de maneira legível e concisa.
+
+Exemplo, pense que você precisa fazer um programa que calcula a média ponderada de um aluno, sendo 3 notas diferentes e 3 pesos diferentes, a nota 1 tem peso 2, a nota 2 tem peso 3 e a nota 3 tem peso 5. Considere que cada nota pode ir de 0 até 10.0, sempre com uma casa decimal.
+
+```
+nota1 = float(input("Digite a nota 1 do aluno: "))
+nota2 = float(input("Digite a nota 2 do aluno: "))
+nota3 = float(input("Digite a nota 3 do aluno: "))
+
+MEDIA = ((nota1 * 2) + (nota2 * 3) + (nota3 * 5)) / 10
+
+print(f"MEDIA = {MEDIA:.1f}".format(MEDIA))
+```
+
 Exercicio 2: A fórmula para calcular a área de uma circunferência é: area = π . raio2. Considerando para este problema que π = 3.14159: - Efetue o cálculo da área, elevando o valor de raio ao quadrado e multiplicando por π. A entrada contém um valor de ponto flutuante (dupla precisão), no caso, a variável raio. A saída deve apresentar a mensagem "A=" seguido pelo valor da variável area, conforme exemplo abaixo, com 4 casas após o ponto decimal. Caso queira comparar os códigos a resolução desse exercicio estará na pasta Exercicios no diretório principal.
