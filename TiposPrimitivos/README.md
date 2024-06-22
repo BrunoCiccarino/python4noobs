@@ -1,6 +1,6 @@
 <h4>Tipos primitivos</h4>
 
-No python, diferente de muitas linguagens, não precisamos declarar os tipos primitivos nas variaveis, o proprio python detecta automaticamente isso, como por exemplo:
+No python, diferente de muitas linguagens, não precisamos declarar os tipos primitivos nas variaveis, o proprio python detecta automaticamente isso, antes de falar sobre tipos primitivos tenho que explicar algumas coisas antes para vocês, o que são variaveis? Imagine as variaveis como gavetas, na programação usamos as variaveis para armazenar e salvar algo na memória do computador, no python temos algumas recomendações e regras para criar variaveis, como: (iniciar variaveis com letras minusculas, podemos usar numeros depois dessa letra minuscula e podemos usar o underline no lugar do espaço no nome das variaveis) como não podemos usar o espaço quando estamos nomeando variaveis, usamos o underline. Agora segue o exemplo de como criamos uma variavel sem precisar declarar qual tipo primitivo vamos usar porquê o proprio interpretador detecta isso...
 
 Em python
 
