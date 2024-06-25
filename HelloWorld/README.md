@@ -2,7 +2,9 @@
 
 Como disse o professor Gustavo Guanabara existe uma maldição no mundo da programação, se você não começa escrevendo um programa que diz Olá Mundo(Hello world), você nunca aprende a linguagem que esta tentando aprender, então vamos quebrar logo essa maldição escrevendo o nosso primeiro programa.
 
-```print("Hello, World")```
+``` Python
+print("Hello, World")
+```
 
 Viu só? Não foi dificil, agora vou explicar o que cada função faz. A função print em Python é uma das funções mais fundamentais e amplamente utilizadas. Ela é responsável por enviar dados de saída para o console, ou até mesmo passar argumentos para o interpretador python como ```print(1+1)```. Nesse caso em especifico o interpretador python, vai ler a instrução que você passou para ele, vai processar essa instrução e vai te retornar a resposta referente a operação matematica que você passou como argumento.
 
