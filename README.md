@@ -34,30 +34,20 @@ Para contribuir com o repositorio basta fazer um pull request e no pull request 
     6- <a href="https://github.com/BrunoCiccarino/python4noobs/blob/main/EstruturasCondicionais%2FREADME.md">Aprofundando em estruturas condicionais</a><br>
     7- <a href="https://github.com/BrunoCiccarino/python4noobs/blob/main/La%C3%A7osDeRepeti%C3%A7%C3%A3o/README.md">Laços de Repetição</a>
 
-2) Orientação a objetos (em breve)
-
-  1- Classes
-
-  2- Objetos
-
-  3- Herança
-
-  4- Polimorfismo
-
-  5- Encapsulamento
-
+2) Orientação a objetos (em breve)<br>
+  1- Classes<br>
+  2- Objetos<br>
+  3- Herança<br>
+  4- Polimorfismo<br>
+  5- Encapsulamento<br>
   6- Padrões de Projetos
 
-3) Ciências da computação (em breve)
-
-    1- Lógica de programação 
-
+3) Ciências da computação (em breve)<br>
+    1- Lógica de programação<br>
     2- Algoritmos e estruturas de dados (Arvores AVL e Grafos)
 
 4) Bonus (em breve) 
-
-    1- Python para infosec/Desenvolvimento de exploits
-
+    1- Python para infosec/Desenvolvimento de exploits<br>
     2- Boas Práticas e Soft skills
 
 ## Contributors
