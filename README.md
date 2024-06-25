@@ -11,6 +11,10 @@ Python é uma linguagem orientada a objetos dinamicamente e fortemente tipada, c
 
 Aqui será um tutorial geral de python, com uma pequena introdução ao machine learning e data science utilizando algumas frame works, como sklearn, pandas e tensor flow. Sempre parto do principio que ensinar é a melhor forma de aprender, então enquanto estou escrevendo esse tutorial eu estou fixando ainda mais o que ja estudei! Se estiverem começando, copiem todos os códigos desse repositório (se conseguirem, menos os exercicios) a mão para treinarem a memória muscular de vocês e também para fixar como um código deve funcionar e ser estruturado. Esse repositório sempre será atualizado, a fim de acompanhar as evoluções e atualizações do python, e é muito importante para mim que você abra um issue no repositório caso tenha alguma dúvida, para que eu possa te ajudar de alguma forma entã, notou algum erro? Abra um issue, ficou com alguma dúvida em algo? Abra um issue! Que farei o possível para te ajudar, mais tarde pretendo mudar esse tutorial para um pdf com a finalidade de ajudar mais gente. Recomendo também que vocês procurem minhas referencias e também estudem por la, para fixar mais na cabeça o conteúdo, procure estudar por varias fontes: <a href="https://github.com/BrunoCiccarino/python4noobs/blob/main/REFERENCIAS.md">Referencias</a>
 
+<h4>Para quem é esse tutorial? </h4>
+
+Estou escrevendo esse tutorial tanto para as pessoas que não tem nenhuma experiência, até para as pessoas que ja tem mais experiência, uma coisa que quero pontuar é, mesmo que você ja tenha mais experiencia, leia o tutorial desde o começo, sei que é chato rever os conceitos que vocês ja estão carecas de saber mas deem uma chance, vai que vocês aprendem algo novo... Mal não vai fazer, isso eu garanto, todo tipo de conhecimento é bem vindo!
+
 <h4>Como posso contribuir com o repositório?</h4>
 
 Para contribuir com o repositorio basta fazer um pull request e no pull request fazer um breve resumo de suas alterações, para que eu revise e aceite.
@@ -32,12 +36,34 @@ Para contribuir com o repositorio basta fazer um pull request e no pull request 
 
 2) Orientação a objetos (em breve)
 
+  1- Classes
+
+  2- Objetos
+
+  3- Herança
+
+  4- Polimorfismo
+
+  5- Encapsulamento
+
+  6- Padrões de Projetos
+
 3) Ciências da computação (em breve)
 
-4) Django (em breve)
+    1- Lógica de programação 
 
-5) Machine learning e data science(em breve)
+    2- Algoritmos e estruturas de dados (Arvores AVL e Grafos)
 
-## Contribuidores
+4) Bonus (em breve) 
 
-<a href="https://github.com/BrunoCiccarino"><img src="https://avatars.githubusercontent.com/u/82242552?s=400&u=c1d7ead803fe0b1ce64b8ce1ad3e5dc9fc6443a3&v=4" title="BrunoCiccarino" width="72" height="72"></a>
+    1- Python para infosec/Desenvolvimento de exploits
+
+    2- Boas Práticas e Soft skills
+
+## Contributors
+
+Esse projeto agradece a todas as pessoas que contribuiram e ajudaram. 
+
+<a href="https://github.com/BrunoCiccarino/python4noobs/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=BrunoCiccarino/python4noobs&max=24" />
+</a>
