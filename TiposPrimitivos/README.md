@@ -4,13 +4,15 @@ No python, diferente de muitas linguagens, não precisamos declarar os tipos pri
 
 Em python
 
-``` a = "Uma string qualquer"```
+``` Python
+a = "Uma string qualquer"
+```
 
 Ja em outras linguagens, fazemos assim: 
 
 Em Java 
 
-```
+``` Java
 public class StringExample {
     public static void main(String[] args) {
         // Inicialização direta
@@ -21,7 +23,7 @@ public class StringExample {
 
 Em C
 
-```
+``` C
 #include <stdio.h>
 
 int main() {
