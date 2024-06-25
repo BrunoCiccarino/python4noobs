@@ -2,7 +2,7 @@
 
 Agora vamos falar sobre estruturas condicionais, estruturas condicionais nada mais são que expressões booleanas como eu disse no capitulo anterior, essas estruturas verificam se uma condição é verdadeira ou falsa e executa o bloco de código a baixo da condição, vamos começar falando do if.
 
-```
+``` Python
 senha = int(input("Digite a senha: "))
 
 if senha == 1312:
@@ -22,7 +22,7 @@ Caso contrário imprimirá "senha incorreta!"
 
 O elif, mais conhecido como else if, também verifica se a condição é verdadeira, para não termos que adicionar um monte de if's o que deixaria o código mais sujo! Usando o elif podemos verificar se mais condições são verdadeiras. Agora segue um exemplo de código usando o elif:
 
-```
+``` Python
 # -*- coding: UTF-8 -*-
 
 i = 47
