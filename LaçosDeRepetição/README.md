@@ -6,7 +6,7 @@ Os laços de repetição também conhecidos como loops estão presentes em todas
 
 Agora vamos para um exemplo usando o laço de repetição while:
 
-```
+``` Python
 x = 1
 
 while x < 10:
@@ -18,7 +18,7 @@ Agora vou explicar como esse código funciona, tem a variavel x que recebe o val
 
 Com o laço de repetição for podemos fazer a mesma coisa com menos linhas, como por exemplo:
 
-```
+``` Python
 for i in range(10):
     print(i)
 ```
