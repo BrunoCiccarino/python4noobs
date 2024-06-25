@@ -8,3 +8,5 @@ Essas são as minhas referencias que usei para escrever esse tutorial:
 <a href="https://scikit-learn.org/stable/tutorial/index.html">scikit-learn Tutorial</a><br>
 <a href="https://youtu.be/YkF76cOgtMQ?si=FWCpkOh6SeqUgGKO">Aula de Estrutura de dados Arvores AVL</a><br>
 <a href="https://youtube.com/playlist?list=PLrVGp617x0hAm90-7zQzbRsSOnN2Vbr-I&si=LX86qgc7iO97hEU-">Introdução à Teoria dos Grafos</a><br>
+<a href="https://youtu.be/uIflMYQnp8A?si=tibnZKBC4l63_6mW">Entendendo o algoritmo de recomendação do twitter Fabio Akita</a><br>
+<a href="https://youtu.be/D3L8IOncLkg?si=GIlvBYiuWQnD_hOT">Não terceirize suas decisões Fabio Akita</a><br>
