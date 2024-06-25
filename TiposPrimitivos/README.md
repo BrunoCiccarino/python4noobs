@@ -53,7 +53,7 @@ Para declarar uma variavel do tipo boolean, é a mesma coisa de todos os outros 
 
 E pode ser utilizado dentro de laços de repetição
 
-```
+``` Python
  i = 748
  if i == 890:
      print("O número escolhido é igual o numero especificado")
@@ -63,21 +63,21 @@ E pode ser utilizado dentro de laços de repetição
 
 Para verificar o tipo da variavel que esta sendo usado usamos a classe type, como nesse exemplo:
 
-```
+``` Python
 i = 12345
 print(type(i))
 ```
 
 Para verificar o número de elementos em um objeto podemos usar a função len
 
-```
+``` Python
 e = "ABC DEF GHI JKL MNO PQRS"
 print(len(e)) # vai retornar 24
 ```
 
 Para sequenciar determinada string podemos fazer dessa forma:
 
-```
+``` Python
 seq = "ABC DEF GHI JKL MNO PQRS"
 letra = seq[0:5] # Mostra a sequencia de letras entre 0 e 5 como eu defini
 print(letra)
@@ -87,7 +87,7 @@ O range que eu defini começa no 0 porquê tudo na programação começa no 0, e
 
 Se quisessemos também poderiamos utilizar a função lower para transformar essa string que esta com todas as letras maiusculas em minusculas.
 
-```
+``` Python
 letras_maiusculas = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
 print(letras_maiusculas.lower())
 ```
