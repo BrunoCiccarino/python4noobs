@@ -46,7 +46,7 @@ Para contribuir com o repositorio basta fazer um pull request e no pull request 
     1- Lógica de programação<br>
     2- Algoritmos e estruturas de dados (Arvores AVL e Grafos)
 
-4) Bonus (em breve) 
+4) Bonus (em breve)<br> 
     1- Python para infosec/Desenvolvimento de exploits<br>
     2- Boas Práticas e Soft skills
 
