@@ -6,7 +6,7 @@ Agora eu vou fazer um exemplo de calculo com todos esses operadores que eu citei
 
 Soma
 
-```
+``` Python
 a = 4
 b = 2
 soma = a + b
@@ -15,7 +15,7 @@ print(soma)
 
 Subtração
 
-```
+``` Python
 a = 8
 b = 3
 subtracao = a - b
@@ -24,7 +24,7 @@ print(subtracao)
 
 Multiplicação
 
-```
+``` Python
 a = 5
 b = 3
 multiplicacao = a * b
@@ -33,7 +33,7 @@ print(multiplicacao)
 
 divisão
 
-```
+``` Python
 a = 9
 b = 3
 divisao = a / b
@@ -42,7 +42,7 @@ print(divisao)
 
 Divisão inteira
 
-```
+``` Python
 a = 5
 b = 2
 divisao_inteira = a // b
@@ -51,7 +51,7 @@ print(divisao_inteira)
 
 Exponenciação
 
-```
+``` Python
 a = 4
 b = 2
 exponenciacao = a ** b
@@ -64,7 +64,7 @@ são usados para comparar dois valores, e esses são os operadores de comparaç�
 
 Agora um exemplo utilizando esses operadores:
 
-```
+``` Python
 # -*- coding: UTF-8 -*-
 a = int(input("Insira um valor para fazermos a comparação"))
 
@@ -93,14 +93,14 @@ else:
 
 Lembram que no capitulo sobre tipos primitivos eu falei que o tipo booleano era utilizado em laços de repetição? Então, esse é o exemplo perfeito para explicar isso, vamos la. 
 
-```
+``` Python
 if a == 5:
     print('O valor inserido é igual a 5')
 ```
 
 Explicação do código: Se a for igual a 5 ele executa o trecho de código a baixo ou seja, imprime(O valor inserido é igual a 5), nesse caso seria se a for igual a 5 ele retorna True. Caso o valor de a não fosse igual a 5 ele retornaria False, então executaria a operação de baixo que é o: 
 
-```
+``` Python
 elif a != 7:
     print('O valor inserido não é igual a 7')
 ```
@@ -138,7 +138,7 @@ Agora vou fazer exemplos de como usar esses operadores em um código:
 
 Operador +=:
 
-```
+``` Python
 num = 5
 
 num += 7
@@ -147,7 +147,7 @@ print(num)
 
 Operador -=:
 
-```
+``` Python
 num = 8
 
 num -= 3
@@ -156,7 +156,7 @@ print(num)
 
 Operador *=:
 
-```
+``` Python
 num = 3
 
 num *= 2
@@ -165,7 +165,7 @@ print(num)
 
 Operador /=:
 
-```
+``` Python
 num = 7
 
 num /= 4
@@ -174,7 +174,7 @@ print(num)
 
 Operador %=:
 
-```
+``` Python
 num = 13
 
 num %= 2
@@ -187,7 +187,7 @@ O operador % é chamado de modulo, que é o resto da divisão, no exemplo acima 
 
 O operador ```and``` retorna True se ambas as condições forem verdadeiras. O operador ```or``` retorna True se uma das condições for verdadeira. O operador not	retorna Falso se o resultado for verdadeiro.
 
-```
+``` Python
 num1 = int(input("Insira um valor:"))
 num2 = int(input("Insira outro valor:"))
 
@@ -211,14 +211,14 @@ else:
 
 Os operadores de identidade vocês não vão precisar saber agora, mas vale a pena eu explicar. Os operadores de identidade são muito utilizados para comparar objetos (Tudo em python são objetos, mas vamos ver isso mais para frente), verificando se os objetos testados referenciam o mesmo objeto ```(is)``` ou não ```(is not)```. 
 
-```
+``` Python
 l = [1, 2, 3, 4, 5, 6, 7]
 ol = [1, 2, "tres", 4]
 
 print(f"São o mesmo objeto? {l is ol}") # Retorna false
 ```
 
-```
+``` Python
 t = (1, 2, 3)
 ot = (3, 2, 1)
 
@@ -231,7 +231,7 @@ Uma dica, operador == checa os valores testados e o operador is testa a referên
 
 Os operadores de associação verificam se determinados objetos pertencem uma determinada estrutura de dados.
 
-```
+``` Python
 l_stacks = ['web development', 'low level development', 'desktop development', 'mobile development']
 
 print('desktop development' in l_stacks)
@@ -244,7 +244,7 @@ A resposta é sim, no python, temos um recurso que podemos formatar de uma manei
 
 Exemplo, pense que você precisa fazer um programa que calcula a média ponderada de um aluno, sendo 3 notas diferentes e 3 pesos diferentes, a nota 1 tem peso 2, a nota 2 tem peso 3 e a nota 3 tem peso 5. Considere que cada nota pode ir de 0 até 10.0, sempre com uma casa decimal. Essa é a sintaxe apropriada para usa-la.
 
-```
+``` Python
 nota1 = float(input("Digite a nota 1 do aluno: "))
 nota2 = float(input("Digite a nota 2 do aluno: "))
 nota3 = float(input("Digite a nota 3 do aluno: "))
