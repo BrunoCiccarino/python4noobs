@@ -30,6 +30,14 @@ Para contribuir com o repositorio basta fazer um pull request e no pull request 
     6- <a href="https://github.com/BrunoCiccarino/python4noobs/blob/main/EstruturasCondicionais%2FREADME.md">Aprofundando em estruturas condicionais</a><br>
     7- <a href="https://github.com/BrunoCiccarino/python4noobs/blob/main/La%C3%A7osDeRepeti%C3%A7%C3%A3o/README.md">Laços de Repetição</a>
 
+2) Orientação a objetos (em breve)
+
+3) Ciências da computação (em breve)
+
+4) Django (em breve)
+
+5) Machine learning e data science(em breve)
+
 ## Contribuidores
 
 <a href="https://github.com/BrunoCiccarino"><img src="https://avatars.githubusercontent.com/u/82242552?s=400&u=c1d7ead803fe0b1ce64b8ce1ad3e5dc9fc6443a3&v=4" title="BrunoCiccarino" width="72" height="72"></a>
