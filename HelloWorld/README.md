@@ -8,7 +8,7 @@ Viu só? Não foi dificil, agora vou explicar o que cada função faz. A funçã
 
 Agora vou mostrar todo o código por traz desse simples comando, você não vai precisar saber disso agora porquê diferente de algumas linguagens, a linguagem python não foi escrita em python, mas em sua grande maioria foi escrita em C, e o código por tras do print do python escrito em Cython é:
 
-```
+``` C
 // Importar headers necessários
 #include <Python.h>
 
@@ -107,14 +107,14 @@ Como eu disse você não vai precisar saber de tudo isso agora mas acho legal mo
 
 Em todas as linguagens, existem uma importantissima função que é chamada de comentário, ela fala pro interpretador ou pro compilador dependendo da linguagem que você vai comentar, para ignorar o que esta escrito após essa função, no python existe dois tipos de comentários, os comentários normais e as docStrings, o comentário normal é usado para explicar o que certo trecho de código faz, como no exemplo a baixo: 
 
-```
+``` Python
 # Imprime na tela Hello World
 print("Hello, World")
 ```
 
 Ja o docString, é utilizado para fazer documentações em certos tipos de código, como nesse exemplo:
 
-```
+``` Python
 def soma(a, b):
     """
     Retorna a soma de a e b.
