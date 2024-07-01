@@ -26,4 +26,4 @@ Até mesmo as sinapses cerebrais do ser humano pode ser representado por um graf
 
 Agora vamos falar sobre grafos em python, vou deixar o link do outro readme que escrevi especificamente para isso, ja que é um assunto longo!
 
-<a href="https://github.com/BrunoCiccarino/python4noobs/blob/main/Ci%C3%AAnciasDaComputa%C3%A7%C3%A3o/Grafos/GrafosEmPython.md"></a>
+<a href="https://github.com/BrunoCiccarino/python4noobs/blob/main/Ci%C3%AAnciasDaComputa%C3%A7%C3%A3o/Grafos/GrafosEmPython.md"> Grafos em python</a>
