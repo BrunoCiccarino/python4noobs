@@ -23,3 +23,7 @@ O Dna Humano, pode ser representado por um grafo suas bases hidrogenadas são se
 Até mesmo as sinapses cerebrais do ser humano pode ser representado por um grafo. As sinapses cerebrais são junções entre a terminação de um neurônio e a membrana de outro neurônio. São elas que fazem a conexão entre células vizinhas, dando continuidade à propagação do impulso nervoso por toda a rede neuronal.
 
 <img src="https://github.com/BrunoCiccarino/python4noobs/blob/main/Ci%C3%AAnciasDaComputa%C3%A7%C3%A3o/Grafos/img/cerebrografo.jpg" alt="Cerebro Grafo">
+
+Agora vamos falar sobre grafos em python, vou deixar o link do outro readme que escrevi especificamente para isso, ja que é um assunto longo!
+
+<a href="https://github.com/BrunoCiccarino/python4noobs/blob/main/Ci%C3%AAnciasDaComputa%C3%A7%C3%A3o/Grafos/GrafosEmPython.md"></a>
